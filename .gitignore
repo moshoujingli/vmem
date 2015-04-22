@@ -1,2 +1,5 @@
 *.o
+test.sh
+.*
+myvirtualdisk
 virtmem
